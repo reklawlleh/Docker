@@ -13,11 +13,11 @@ upnp=1
 world=/root/.local/share/Terraria/tModLoader/Worlds/
 worldpath=/root/.local/share/Terraria/tModLoader/Worlds
 
-modpath=/root/.local/share/Terraria/tModLoader/Mods
-modpack=/root/.local/share/Terraria/tModLoader/Mods/enabled.json
+modpath=/terraria-server/steamapps/workshop/content/1281930/Mods
+modpack=/terraria-server/steamapps/workshop/content/1281930/enabled.json
 
 #For creating a new world or if no World is selected (change the values)
 worldname=Test
 difficulty=0
 seed=2762364578
-autocreate=3
+autocreate=2
