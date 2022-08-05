@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  tmod-server:
+    build:
+      dockerfile: Dockerfile
+    container_name: tmodloader
+    stdin_open: true
+    tty: true
+    ports:
+      - 7777:7777
+    volumes:
+      - ./worlds:/root/.local/share/Terraria/tModLoader/Worlds

@@ -1,0 +1,23 @@
+# Delete the -> # out to enable the options
+maxplayers=8
+port=7777
+#password=
+#banlist=banlist.txt
+secure=1
+priority=1
+language=en/US
+npcstream=60
+upnp=1
+#motd= Welcome
+
+world=/root/.local/share/Terraria/tModLoader/Worlds/
+worldpath=/root/.local/share/Terraria/tModLoader/Worlds
+
+modpath=/root/.local/share/Terraria/tModLoader/Mods
+modpack=/root/.local/share/Terraria/tModLoader/Mods/enabled.json
+
+#For creating a new world or if no World is selected (change the values)
+worldname=Test
+difficulty=0
+seed=2762364578
+autocreate=3
